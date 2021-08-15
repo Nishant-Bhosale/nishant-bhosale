@@ -4,6 +4,9 @@ I'm Nishant from India, and I love to make new and exciting projects. I really e
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&hide=contribs,prs)
+
+
 
 
 
