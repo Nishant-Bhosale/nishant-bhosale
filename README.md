@@ -2,7 +2,7 @@
 ## I am a web developer
 ![I am a web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Nishant from India, and I love to make new and exciting projects. I really enjoy learning new languages and frameworks like React and Typescript. I also love python, datascience and machine-learning/artificial-intelligence.
+I'm Nishant from India, and I love to make exciting projects. I really enjoy learning new languages and frameworks like React and Typescript. I also love python, datascience and machine-learning/artificial-intelligence.
 
 ## Skills and Experience
 * ⚛ React
@@ -12,7 +12,7 @@ I'm Nishant from India, and I love to make new and exciting projects. I really e
 * 🐍 Python
 * ☕ Java
 
-- 🔭 I’m currently working on my portfolio website. 
+- 🔭 I’m currently working on a fullstack app. 
 - 🌱 I’m currently learning Java and DSA. 
 
 
