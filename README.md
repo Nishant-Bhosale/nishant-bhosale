@@ -22,7 +22,6 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Bhosale)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nishant-Bhosale)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nishant-Bhosale)  
