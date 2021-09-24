@@ -19,13 +19,14 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nishant-Bhosale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nishant-bhosale-6777241b6/)  
 
 
-<!-- |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12383316)](https://stackoverflow.com/users/16058244/nishant-bhosale) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-bhosale"/>| -->
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-bhosale"/>|
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Bhosale)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nishant-Bhosale)  
 
