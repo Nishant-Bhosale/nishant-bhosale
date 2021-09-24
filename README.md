@@ -1,7 +1,11 @@
 # Hi there 👋, I'm Nishant Bhosale
 ## I am a web developer
-![I am a web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Bhosale"/>|
+|---|---|
+ 
+ ---
+ 
 I'm Nishant from India, and I love to make exciting projects. I really enjoy learning new languages and frameworks like React and Typescript. I also love python, datascience and machine-learning/artificial-intelligence.
 
 ## Skills and Experience
@@ -11,13 +15,8 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 * 👨‍💻 Typescript
 * 🐍 Python
 * ☕ Java
-
 - 🔭 I’m currently working on a fullstack app. 
 - 🌱 I’m currently learning Java and DSA. 
-
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Bhosale)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt)
 
@@ -42,18 +41,4 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Bhosale)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nishant-Bhosale)  
-
 ![Profile views](https://gpvc.arturio.dev/Nishant-Bhosale)   
-
- 
-
-
-
-
-
-
-
