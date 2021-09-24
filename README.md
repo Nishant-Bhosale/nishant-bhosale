@@ -15,8 +15,12 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 - 🔭 I’m currently working on a fullstack app. 
 - 🌱 I’m currently learning Java and DSA. 
 
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nishant-Bhosale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nishant-bhosale-6777241b6/)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Bhosale)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt)
+
 ## Connect with me  
 <div align="center">
  <a href="https://www.linkedin.com/in/nishant-bhosale-6777241b6/" target="_blank">
@@ -38,21 +42,17 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 </a>
 </div>
 
-
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Bhosale)  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Bhosale)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nishant-Bhosale)  
 
-![GitHub metrics](https://metrics.lecoq.io/Nishant-Bhosale)  
-
 ![Profile views](https://gpvc.arturio.dev/Nishant-Bhosale)   
+
+ 
+
+
+
 
 
 
