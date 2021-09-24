@@ -19,7 +19,9 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nishant-Bhosale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nishant-bhosale-6777241b6/)  
 
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-bhosale"/>|
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-bhosale"/>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Bhosale)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt)
 
@@ -31,8 +33,6 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nishant-Bhosale)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Nishant-Bhosale)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Bhosale)  
 
 ![Profile views](https://gpvc.arturio.dev/Nishant-Bhosale)  
 
