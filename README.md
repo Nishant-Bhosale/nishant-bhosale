@@ -16,7 +16,7 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 * 🐍 Python
 * ☕ Java
 - 🔭 I’m currently working on a fullstack app. 
-- 🌱 I’m currently learning Java and DSA. 
+- 🌱 I’m currently learning to build progressive web apps(PWA's). 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt)
 
