@@ -2,6 +2,7 @@
 <h1 align="center">I am a web developer</h1>
 
 |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Bhosale"/>|
+
 |---|---|
  
  ---
@@ -34,7 +35,9 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 - 🔭 I’m currently working on a fullstack app. 
 - 🌱 I’m currently learning to build progressive web apps(PWA's). 
 
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt)
+</div>
 
 ## Connect with me  
 <div align="center">
