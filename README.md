@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Nishant Bhosale
-## I am a web developer
+<h1 align="center">Hi there 👋, I'm <a target="_blank" href="https://nishant-bhosale.netlify.app/">Nishant Bhosale</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1 align="center">I am a web developer</h1>
 
 |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Bhosale"/>|
 |---|---|
@@ -74,7 +74,3 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 | [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used. -->
 
    
-
-
-
-
