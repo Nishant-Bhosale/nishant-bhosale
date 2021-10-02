@@ -1,8 +1,9 @@
-<h1 align="center">Hi there 👋, I'm <a target="_blank" href="https://nishant-bhosale.netlify.app/">Nishant Bhosale</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1 align="center">Hi there, I'm <a target="_blank" href="https://nishant-bhosale.netlify.app/">Nishant Bhosale</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 <h1 align="center">I am a web developer</h1>
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Bhosale"/>|
+---
 
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/nishant-bhosale) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Bhosale"/>|
 |---|---|
  
  ---
@@ -36,7 +37,7 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 - 🌱 I’m currently learning to build progressive web apps(PWA's). 
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt)
+<img src="https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt"></img>
 </div>
 
 ## Connect with me  
@@ -61,10 +62,15 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/Nishant-Bhosale.svg?style=social&label=Follow)](https://github.com/Nishant-Bhosale?tab=followers)
+<div align="center">
+<img src="https://img.shields.io/github/followers/Nishant-Bhosale.svg?style=social&label=Follow"></img>
 
-![Profile views](https://gpvc.arturio.dev/Nishant-Bhosale)   
+<img src="https://gpvc.arturio.dev/Nishant-Bhosale"></img>
+</div>
 
 <!-- | Project Name      | Description | 
 | :---:        |    :----   |  
@@ -76,4 +82,5 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 | [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
 | [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used. -->
 
-   
+
+
