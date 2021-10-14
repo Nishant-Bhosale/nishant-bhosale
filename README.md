@@ -37,6 +37,7 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 - 🌱 I’m currently learning to build progressive web apps(PWA's). 
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Bhosale&layout=compact&theme=midnight-purple"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt"></img>
 </div>
 
@@ -62,6 +63,13 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
+
+### Recent Projects 👨‍💻
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=TheGamerDiary&show_icons=true&theme=monokai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=amazon-clone&show_icons=true&theme=jolly"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=Portfolio-Website&show_icons=true&theme=great-gatsby"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=MovieApp&show_icons=true&theme=great-gatsby">
+</div>
+ 
 <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
@@ -72,15 +80,13 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 <img src="https://gpvc.arturio.dev/Nishant-Bhosale"></img>
 </div>
 
-<!-- | Project Name      | Description | 
-| :---:        |    :----   |  
-| [My Portfolio Website](https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [College Library Website](https://sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Saurav Mukherjee 
-| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
-| [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
-| [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
-| [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
-| [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used. -->
+---
+
+**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
+
+---
+
+Leave a ⭐ from [here](https://github.com/Nishant-Bhosale/nishant-bhosale) if you like 😁
 
 
 
