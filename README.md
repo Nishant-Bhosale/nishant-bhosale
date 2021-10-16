@@ -82,10 +82,6 @@ I'm Nishant from India, and I love to make exciting projects. I really enjoy lea
 
 ---
 
-**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
-
----
-
 Leave a ⭐ from [here](https://github.com/Nishant-Bhosale/nishant-bhosale) if you like 😁
 
 
