@@ -8,7 +8,11 @@
  
  ---
  
-I'm Nishant from India, and I love to make exciting projects. I really enjoy learning new languages and frameworks like React and Typescript. I also love python, datascience and machine-learning/artificial-intelligence.
+👨‍🎓I am Nishant Bhosale, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.
+💻I am a full-stack web developer as well as an 📱ML / AI enthusiast.
+I love❤ to make exciting projects. 
+I really enjoy learning🚀 new languages and frameworks like React⚛ and Typescript.
+I also love python🐍, datascience and machine-learning/artificial-intelligence.
 
 <h1>Technical Skills 🛠</h1>
 
