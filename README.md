@@ -42,7 +42,6 @@ I also love **python🐍, datascience** and machine-learning/artificial-intellig
 - 🌱 I’m currently learning to build progressive web apps(PWA's). 
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Bhosale&layout=compact&theme=midnight-purple"></img>
    <img src="https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt"></img>
 </div>
 
