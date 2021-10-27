@@ -14,6 +14,9 @@ I love❤ to make **exciting projects**. <br/>
 I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 I also love **python🐍, datascience** and machine-learning/artificial-intelligence.<br/>
 
+- 🔭 I’m currently working on a fullstack app.<br/>
+- 🌱 I’m currently learning to build progressive web apps(PWA's).<br/>
+
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
@@ -37,9 +40,6 @@ I also love **python🐍, datascience** and machine-learning/artificial-intellig
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
-
-- 🔭 I’m currently working on a fullstack app. 
-- 🌱 I’m currently learning to build progressive web apps(PWA's). 
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt"></img>
