@@ -8,12 +8,11 @@
  
  ---
  
-👨‍🎓I am Nishant Bhosale, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
-💻I am a **full-stack web developer** as well as an 📱**ML / AI enthusiast.**<br/>
-I love❤ to make **exciting projects**. <br/>
-I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
-I also love **python🐍, datascience** and machine-learning/artificial-intelligence.<br/>
-
+- 👨‍🎓I am Nishant Bhosale, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
+- 💻I am a **full-stack web developer** as well as an 📱**ML / AI enthusiast.**<br/>
+- I love❤ to make **exciting projects**. <br/>
+- I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
+- I also love **python🐍, datascience** and machine-learning/artificial-intelligence.<br/>
 - 🔭 I’m currently working on a fullstack app.<br/>
 - 🌱 I’m currently learning to build progressive web apps(PWA's).<br/>
 
