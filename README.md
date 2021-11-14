@@ -42,6 +42,7 @@
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt"></img>
+   <br>
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=cobalt&langs_count=20"></img>
 </div>
 
