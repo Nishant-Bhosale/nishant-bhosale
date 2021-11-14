@@ -40,7 +40,7 @@
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-<div align="center" style = "display: flex; justify-content: center; align-items: center">
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true&theme=cobalt"></img>
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=cobalt&langs_count=20"></img>
 </div>
