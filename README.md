@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <a target="_blank" href="https://nishant-bhosale.netlify.app/">Nishant Bhosale</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
-<h1 align="center">I am a Web Developer</h1>
 
 ---
 
