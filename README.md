@@ -71,12 +71,12 @@
 
 ### Recent Projects 👨‍💻
 
-<!-- <div align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=TheGamerDiary&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=amazon-clone&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=portfolio&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=MovieApp&show_icons=true&theme=great-gatsby">
-</div> -->
+</div>
  
 <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
