@@ -10,7 +10,7 @@
  ---
  
 - 👨‍🎓I am Nishant Bhosale, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
-- 💻I am a **full-stack web developer**, **Competitive Programmer** as well as 📱**ML / AI enthusiast.**<br/>
+- 💻I am a **full-stack Web/Android developer**, **Competitive Programmer** as well as 📱**ML / AI enthusiast.**<br/>
 - 15,000+ Followers on LinkedIn😎😇
 - 3⭐ coder on **CodeChef**<br/>
 - I love❤ to make **exciting projects**. <br/>
@@ -39,6 +39,7 @@
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
      <img alt="NextJs" src="https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs&logoColor=black" />
+     <img alt="React Native" src="https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
