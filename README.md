@@ -12,7 +12,6 @@
 - 👨‍🎓I am Nishant Bhosale, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
 - 💻I am a **Full-Stack Web/Android Developer**, **Competitive Programmer** as well as 📱**ML / AI enthusiast.**<br/>
 - 15,000+ Followers on LinkedIn😎😇
-- 3⭐ coder on **CodeChef**<br/>
 - I love❤ to make **exciting projects**. <br/>
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 - I also love **python🐍, datascience** and machine-learning/artificial-intelligence.<br/>
